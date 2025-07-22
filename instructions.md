@@ -1,7 +1,7 @@
 # Step-by-Step Project Instructions
 
 Follow this guide to build, deploy, and automate the Cybersecurity Threat Detection System on AWS.
-
+Note : for Jupyter Notebook code check the code_file
 ---
 
 ## 1. Preprocess Data and Feature Engineering
